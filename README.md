@@ -1,10 +1,17 @@
 Name: Rahul Kumar 
+
 Company: CODETECH IT SOLUTIONS
+
 ID:CT12DA103
+
 Domain:Data Analytics
+
 Duration:May to July
+
 Mentor:SRAVANI  GOUNI
+
 OVERVIEW OF THE PROJECT
+
 PROJECT :EXPLORATORY DATA ANALYSIS (EDA)
 
 OBJECTIVE:
