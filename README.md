@@ -27,6 +27,7 @@ Visualization: Creating plots and charts to visualize trends and patterns in the
 Statistical Analysis: Conducting statistical tests and building models to understand relationships between variables.
 Reporting: Summarizing findings and creating reports to communicate insights.
 
+
 Technologies Used
 Python: The primary programming language used for data analysis.
 Pandas: For data manipulation and analysis.
